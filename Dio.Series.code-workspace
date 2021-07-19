@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "obj"
+		},
+		{
+			"path": "Interfaces"
+		},
+		{
+			"path": "Enun"
+		},
+		{
+			"path": "Classes"
+		},
+		{
+			"path": "bin"
+		},
+		{
+			"path": ".vscode"
+		}
+	]
+}

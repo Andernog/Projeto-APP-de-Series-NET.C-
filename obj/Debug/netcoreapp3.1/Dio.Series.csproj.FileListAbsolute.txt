@@ -1,0 +1,4 @@
+C:\Users\Samsung\Dio.series\obj\Debug\netcoreapp3.1\Dio.Series.csprojAssemblyReference.cache
+C:\Users\Samsung\Dio.series\obj\Debug\netcoreapp3.1\Dio.Series.AssemblyInfoInputs.cache
+C:\Users\Samsung\Dio.series\obj\Debug\netcoreapp3.1\Dio.Series.AssemblyInfo.cs
+C:\Users\Samsung\Dio.series\obj\Debug\netcoreapp3.1\Dio.Series.csproj.CoreCompileInputs.cache
